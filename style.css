@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+/* carousel start */
+img{
+  height: 600px;
+}
+/* carousel end */
+/* discover start */
+.discover{
+  width: 500px;
+  text-align: center;
+}
+.discover h1{
+  color: var(--Dark-01, #1D1D1D);
+text-align: center;
+font-family: Poppins;
+font-size: 37px;
+font-style: normal;
+font-weight: 600;
+line-height: 60px; /* 133.333% */
+}
+.discover p{
+  color: var(--Dark-03, #777);
+text-align: center;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 187.5% */
+}
+/* discover end */
+/* coures start */
+.content h2{
+  color: #289BDE;
+}
+/* coures end */
