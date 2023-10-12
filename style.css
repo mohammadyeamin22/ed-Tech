@@ -23,14 +23,23 @@ img{
   margin-top: 100px
 }
 /* work end */
-/* join css-start */
+/* /join start */
 .join{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
+  height: 250px;
   align-items: center;
-  margin-bottom: 100px;
 }
-.join button{
-  margin-left: 100px;
+/* /join end */
+/* trustted css-start */
+.trust{
+  font-size: 16px;
 }
-/* join css-end */
+/* trustted css-end */
+/* footer start */
+.discover-1{
+  text-align: center;
+  height: 250px;
+ 
+}
+/* footer end */

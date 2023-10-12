@@ -23,6 +23,18 @@
     flex-direction: column;
   }
   /* course medai css-end */
+  /* footer media css-start */
+  .footer{
+    width: 100%;
+  }
+  /* footer media css-end */
+  /* join media css-start */
+  .join{
+    display: flex;
+    flex-direction: column;
+    
+  }
+  /* join media css-end */
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -38,6 +50,19 @@
   width: 100%;
 }
 /* discover media css-end */
+/* footer  media css-start */
+.footer{
+  width: 100%;
+}
+/* footer  media css-end */
+/* join media css-strt */
+.join{
+  display: flex;
+  flex-direction: column;
+  
+}
+/* join media css-end */
+
   
 }
  /* Medium devices (tablets, 768px and up) */
@@ -48,6 +73,11 @@
     height: 300px;
   }
   /* carousel media css-end */
+  /* footer media css-start */
+  .footer{
+    width: 100%;
+  }
+  /* footer media css-end */
  }
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) {
