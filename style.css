@@ -24,19 +24,18 @@ img{
   margin-top: 100px
 }
 /* work end */
-/* /join start */
+/* /Register start */
 .join{
   display: flex;
   justify-content: space-around;
   height: 250px;
   align-items: center;
 }
-/* /join end */
+/* /Register end */
 /* comment css-start */
 i{
   color: #FAB71E;
 }
-
 /* comment css-end */
 /* trustted css-start */
 .trust{
@@ -47,7 +46,6 @@ i{
 .discover-1{
   text-align: center;
   height: 250px;
- 
 }
 .icon i{
   color:white;
