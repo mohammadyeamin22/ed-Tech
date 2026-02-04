@@ -4,6 +4,11 @@
   list-style: none;
   font-family: 'Poppins', sans-serif;
 }
+
+html{
+  scroll-behavior:smooth;
+}
+
 /* carousel start */
 img{
   height: 600px;
